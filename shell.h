@@ -1,5 +1,7 @@
 #ifndef SHELL_H
 #define SHELL_H
-int main(void);
-#endif
 
+/* Prototypes */
+int main(void);
+
+#endif /* SHELL_H */
